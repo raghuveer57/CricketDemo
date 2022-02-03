@@ -32,6 +32,8 @@ For that I've created another probabilty table and used it for determining the `
 |4| 12 perecent|
 |5| 15 precent|
 
+After several roungs of testing, I have changed the target score to 30 where we get different outcomes frequently.
+
 ## Level 3: Score tracking
 
 Implemented the UI for tracking the scores and overs.
