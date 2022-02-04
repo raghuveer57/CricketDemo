@@ -29,10 +29,12 @@ For that I've created another probabilty table and used it for determining the `
 | 0 | 2 percent|
 |1| 5 percent|
 |2| 7 percent|
-|4| 12 perecent|
-|5| 15 precent|
+|4| 12 percent|
+|5| 15 percent|
 
-After several roungs of testing, I have changed the target score to 30 where we get different outcomes frequently.
+After several rounds of testing, I have changed the target score to 30 where we get different outcomes frequently.
+
+Ideally the probabilty/random generator logic should be moved into different place ( possible a different package or a dll plugin for performance,security and ease of maintenance).
 
 ## Level 3: Score tracking
 
